@@ -1,2 +1,2 @@
 # sort-array
-C program to sort an array
+C Program to Sort the Array in Descending Order or Ascending order
